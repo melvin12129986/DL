@@ -1,5 +1,5 @@
 
-``markdown
+
 # 🐾 Image Classification: Oxford-IIIT Pet Dataset (10 Selected Breeds)
 
 Repositori ini berisi implementasi eksperimen klasifikasi gambar untuk membedakan **5 ras kucing** dan **5 ras anjing** pilihan dari dataset **Oxford-IIIT Pet** menggunakan PyTorch. Eksperimen ini mencakup perbandingan pelatihan model dari awal (*from scratch*), *Feature Extraction*, *Fine-Tuning*, hingga pengujian model efisien untuk perangkat *edge*.
