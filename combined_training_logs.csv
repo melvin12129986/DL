@@ -1,0 +1,16 @@
+scenario,epoch,train_loss,train_acc,train_macro_f1,val_loss,val_acc,val_macro_f1,epoch_duration_seconds
+B1: ResNet18 (Scratch),1,2.3461,20.6,0.1794,8.9529,19.5,0.1418,10.31
+B1: ResNet18 (Scratch),2,1.9889,29.65,0.2587,2.3836,19.0,0.1413,4.32
+B1: ResNet18 (Scratch),3,1.8278,37.56,0.3467,2.3666,22.5,0.2048,5.69
+B2: ResNet18 (Feature Extraction),1,1.9015,38.69,0.3786,1.1616,76.5,0.7555,3.98
+B2: ResNet18 (Feature Extraction),2,0.9467,80.4,0.8016,0.7306,85.0,0.8496,4.68
+B2: ResNet18 (Feature Extraction),3,0.6267,86.31,0.8631,0.5022,88.5,0.8826,4.17
+B3 S1: ResNet18 (Fine-Tuning - No Augment),1,1.0516,69.47,0.6913,0.3752,89.0,0.8947,3.97
+B3 S1: ResNet18 (Fine-Tuning - No Augment),2,0.1742,97.36,0.974,0.2488,93.5,0.9315,4.85
+B3 S1: ResNet18 (Fine-Tuning - No Augment),3,0.0566,99.87,0.9988,0.2403,91.5,0.9178,3.91
+B3 S2: ResNet18 (Fine-Tuning - With Augment),1,1.2151,62.56,0.6222,0.3898,89.0,0.8914,6.39
+B3 S2: ResNet18 (Fine-Tuning - With Augment),2,0.2811,93.84,0.9382,0.3161,89.0,0.8934,5.11
+B3 S2: ResNet18 (Fine-Tuning - With Augment),3,0.1475,96.86,0.9684,0.3223,89.5,0.8993,6.23
+B5: MobileNetV3-Small,1,1.2884,58.79,0.5827,0.5201,79.0,0.7937,4.02
+B5: MobileNetV3-Small,2,0.4006,88.57,0.8823,0.3731,84.5,0.8496,5.33
+B5: MobileNetV3-Small,3,0.2887,91.33,0.9131,0.2977,88.0,0.8834,3.86
