@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 # 🐾 Image Classification: Oxford-IIIT Pet Dataset (10 Selected Breeds)
 
@@ -44,3 +45,4 @@ Dataset **Oxford-IIIT Pet** akan otomatis diunduh dan difilter pada saat skrip p
 - `combined_training_logs.csv`: Log hasil metrik loss, akurasi, dan F1-score per epoch untuk setiap skenario.
 - `notebook.ipynb`: Jupyter Notebook berisi seluruh alur eksplorasi data, training, evaluasi, analisis misklasifikasi, hingga analisis peta aktivasi (*feature maps*).
 ```
+
