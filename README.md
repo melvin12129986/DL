@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ```markdown
 # 🐾 Image Classification: Oxford-IIIT Pet Dataset (10 Selected Breeds)
 
